@@ -191,7 +191,7 @@ Nᴀᴍᴇ - {}"""
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-<b>"[{file_name}](https://telegram.dog/+ei9cg_OsVo81YjQ1)</b>"
+<b>"[{file_name}](https://telegram.me/AR_LINK_Z)</b>"
 
 <b>•────•────────•────•
 🔆 ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/AR_LINK_Z)
